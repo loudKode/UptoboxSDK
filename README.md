@@ -6,7 +6,38 @@
 [![NuGet](https://img.shields.io/nuget/v/DeQmaTech.UptoboxSDK.svg?style=flat-square&logo=nuget)](https://www.nuget.org/packages/DeQmaTech.UptoboxSDK)<br>
 
 # Functions:
-[https://github.com/loudKode/UptoboxSDK/blob/master/IClient.cs](https://github.com/loudKode/UptoboxSDK/blob/master/IClient.cs)
+* CopyFiles
+* CreateNewFolder
+* DeleteFiles
+* DeleteFolder
+* DeleteFolders
+* DownloadFile
+* GenerateDownloadLink
+* GetFolderContains
+* GetFolderMetadata
+* GetVideoQuality
+* List
+* ListAllFiles
+* ListPublicFiles
+* LockFile
+* LockFile_Multiple
+* MoveFiles
+* RemoteUpload
+* RenameFile
+* RenameFolder
+* Search
+* SecurityLock
+* SetPrivate
+* SetPrivate_Multiple
+* SetPublic
+* SetPublic_Multiple
+* Stats
+* StorageInfo
+* UnLockFile
+* UnLockFile_Multiple
+* Upload
+* UserInfo
+
 
 # Example:
 **get access token**
